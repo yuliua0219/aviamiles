@@ -2,11 +2,11 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int i = 15936;
-        int y = 20;
-        int x = i/y;
+        int price = 15936;
+        int min = 20;
+        int miles = price/min;
 
-        System.out.println(x);
+        System.out.println(miles);
 
     }
 }
