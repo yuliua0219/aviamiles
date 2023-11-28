@@ -4,7 +4,7 @@ public class Main {
 
         int price = 15936;
         int min = 20;
-        int miles = price/min;
+        int miles = price / min;
 
         System.out.println(miles);
 
